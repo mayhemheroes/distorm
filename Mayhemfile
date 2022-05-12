@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-distorm
+target: disasm
+
+cmds:
+  - cmd: /repo/examples/linux/disasm -b64 @@
+    # filepath: /test.c
