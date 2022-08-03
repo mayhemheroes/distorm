@@ -2,4 +2,4 @@ project: distorm
 target: disasm
 
 cmds:
-  - cmd: /repo/examples/linux/disasm -b64 @@
+  - cmd: /disasm -b64 @@
